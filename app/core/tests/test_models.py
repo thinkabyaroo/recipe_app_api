@@ -1,3 +1,3 @@
 """
-Testing model
+Testing user model.
 """
